@@ -1,0 +1,19 @@
+{
+    "name": "desafiopoo_2",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+        "babel": "babel src/ -d dist/",
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "@babel/cli": "^7.17.0",
+        "@babel/core": "^7.17.2",
+        "@babel/polyfill": "^7.12.1",
+        "@babel/preset-env": "^7.16.11"
+    }
+}
